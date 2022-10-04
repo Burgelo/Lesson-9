@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500&display=swap');
+body {
+	max-width: 100%;
+	font-family: 'Inter+Tight';
+	font-size: 18px;
+}
+[class*="__container"]{
+	max-width: 1230px;
+	margin: 0 auto;
+}
+/* [class*="__container"] {
+	max-width: 1230px;
+	margin: 0 auto;
+} */
+.block__container{
+	background-color: rgb(224, 223, 220);
+}
+.title{
+	font-size: 28px;
+	font-weight: 500;
+	text-transform: uppercase;
+	padding: 30px;
+}
+.page {
+	max-width: 810px;
+	margin: 0 auto;
+	margin-bottom: 40px;
+}
+.block__container img{
+	width: 800px;
+	
+}
